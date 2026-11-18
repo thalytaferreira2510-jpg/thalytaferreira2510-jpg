@@ -6,4 +6,4 @@
 Portfólio profissional com projetos desenvolvidos em Power BI, SQL e modelagem de dados.
 
 ## Conteúdo
-
+Dashboard Analítico de Vendas Globais
